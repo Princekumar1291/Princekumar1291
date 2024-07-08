@@ -1,6 +1,6 @@
 <img src="https://github.com/Princekumar1291/Princekumar1291/assets/120407422/a0d8743f-9769-4f2f-affc-e9f75e47c567" width=4000/>
 
-# Hi ,I am Prince Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi ,I am Prince Kumar! 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Princekumar1291&color=blue)<br>
@@ -11,7 +11,6 @@
 - 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
 - 🏫 I’m currently learning <b>Data Structures And MERN Stack Development</b> <br>
 - 🙌 I’m looking to collaborate on <b>Web Projects</b> <br>
-- 🤔 I’m looking for help with <b>Model Training</b><br>
 - 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
 
 ### 🕵 Social Media Handles!<br>
