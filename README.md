@@ -20,6 +20,9 @@
 ### 🕵 Social Media Handles!<br>
 
 <div align="left">
+  <a href="https://leetcode.com/u/_Prince_kumar_/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="c logo" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/prince-kumar1291/details/skills/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -34,8 +37,6 @@
 
 ### Languages: 
 <div align="left">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="c logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="35" alt="c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
