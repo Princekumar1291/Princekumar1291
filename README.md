@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Princekumar1291&color=blue)<br>
 
 
-<img src="https://i.postimg.cc/0QM74Ych/git-Thumbnail.jpg" width=4000/>
+<img src="https://i.postimg.cc/0QM74Ych/git-Thumbnail.jpg" width=4000 height="500"/>
 
 
 ### A passionate and enthusiast programmer<br>
