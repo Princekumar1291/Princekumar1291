@@ -64,8 +64,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="35" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="35" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=black&style=for-the-badge" height="35" alt="rstudio logo"  />
