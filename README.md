@@ -81,9 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princekumar1291&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
-
-
 ### Snake-Eating My Contribution Graph:🐍📈
 
 <img src="https://raw.githubusercontent.com/Princekumar1291/Princekumar1291/output/snake.svg" alt="Snake animation" />
