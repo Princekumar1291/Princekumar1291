@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="googlecloud logo"  />  
   <img width="12" />
-  <img src="	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="35" alt="googlecloud logo"  />  
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="35" alt="Redux logo"  />  
   <img width="12" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="35" alt="googlecloud logo"  />  
   <img width="12" />
@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" alt="googlecloud logo"  />  
   <img width="12" />
-  <img src="	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" alt="googlecloud logo"  />  
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" alt="googlecloud logo"  />  
 </div>
 <br>
 
