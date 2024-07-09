@@ -1,4 +1,4 @@
-<img src="https://github.com/Princekumar1291/Princekumar1291/assets/120407422/a0d8743f-9769-4f2f-affc-e9f75e47c567" width=4000/>
+<img src="https://i.postimg.cc/0QM74Ych/git-Thumbnail.jpg" width=4000/>
 
 # Hi ,I am Prince Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
