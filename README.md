@@ -23,6 +23,9 @@
   <a href="https://leetcode.com/u/_Prince_kumar_/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="c logo" height="50" alt="linkedin logo"  />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/princekumarqlzl/" target="_blank">
+    <img src="https://i.postimg.cc/6QgTPD7f/gfg-logo.png" height="35" alt="c logo" height="50" alt="linkedin logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/prince-kumar1291/details/skills/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
