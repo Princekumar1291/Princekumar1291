@@ -1,4 +1,3 @@
-<i class="fa-brands fa-linkedin fa-shake"></i>
 <img src="https://i.postimg.cc/0QM74Ych/git-Thumbnail.jpg" width=4000 height="350"/>
 
 # Hi ,I am Prince Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
