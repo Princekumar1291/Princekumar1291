@@ -10,7 +10,7 @@
   
 </div>
 - 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
-- 🏫 I’m currently learning <b>Data Structures And MERN Stack Development</b> <br>
+- 🏫 I’m currently learning <b>Data Structures And PHP</b> <br>
 - 🙌 I’m looking to collaborate on <b>Web Projects</b> <br>
 - 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
 
